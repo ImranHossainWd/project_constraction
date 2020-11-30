@@ -1,0 +1,11 @@
+color-
+primary orange     #FF5200
+black              #222222
+para color         #C6C9D6
+top header col     #F5F5F5
+
+
+      xl,lg,md      sm     col
+h1      45px                28
+h2      30                  20
+h3       25                 20

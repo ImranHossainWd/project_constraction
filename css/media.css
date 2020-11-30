@@ -1,0 +1,459 @@
+ 
+
+
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+.menu ul li a {
+    padding-left: 0px !important;
+}
+.slider_content {
+    margin: 60px 0;
+}
+.slider_content h1 {
+    font-size: 35px;
+    line-height: 45px;
+
+}
+.slider_content button {
+    width: 50%;
+}
+.cid li {
+    width: 8px;
+    height: 8px;
+}
+/*header end*/
+/*service start*/
+.service {
+    padding: 23px 0;
+}
+.service_item {
+    margin-bottom: 20px;
+}
+.service_item h2 {
+    font-size: 20px;
+}
+.service_item a {
+    font-size: 14px;
+}
+/*service end*/	
+/*teamwork section start*/
+.teamwork {
+    padding: 30px 0;
+}
+.teamwork_content h1 {
+    margin-top: 20px;
+    font-size: 28px;
+}
+.teamwork_content p {
+    margin: 15px 0;
+}
+.teamwork_content ul li a {
+    font-size: 12px;
+}
+.btn_custom {
+    margin-top: 10px;
+    width: 120px;
+    height: 41px;
+}
+
+/*teamwork section end*/
+/*achieve counter start*/
+.achieve_counter {
+    padding: 30px 0;
+}
+.counter_items {
+    margin-bottom: 10px;
+}
+.counter_items span {
+    font-size: 35px;
+}
+.counter_items h2 {
+    font-size: 16px;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-size: 35px;
+}
+/*achieve counter end*/
+/*more section start*/
+.more {
+    padding: 30px 0;
+}
+.c_head {
+    font-size: 28px;
+}
+.more_items {
+    margin-bottom: 20px;
+}
+.more_items h2 {
+    font-size: 20px;
+}
+/*more section end*/
+/*price section start*/
+.price {
+    padding: 30px 0;
+}
+.price_items h3 {
+    font-size: 20px;
+}
+/*price section end*/
+/*idea section start*/
+.idea_items {
+    text-align: center;
+}
+.idea_content {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.idea_content h1 {
+    font-size: 28px;
+}
+.idea_items_elements h3 {
+    font-size: 20px;
+}
+/*idea section end*/
+/*team section start*/
+.team {
+    padding: 30px 0;
+}
+.team_items {
+    margin-bottom: 20px;
+}
+.team_items h3 {
+    font-size: 16px;
+
+}
+.margin_fix {
+    margin-top: 10px !important;
+}
+/*team section end*/
+/*project secton start*/
+.project {
+    padding: 30px 0;
+}
+/*project secton end*/
+/*news section start*/
+.news {
+    padding: 30px 0;
+}
+.card {
+    margin-bottom: 20px;
+}
+.card_custom h3 {
+    font-size: 20px;
+}
+/*news section end*/
+/*contact section start*/
+.form_input{
+	width:95%;
+    margin-bottom: 5px !important;
+    margin:0 auto;
+}
+.form_btn {
+    width: 95%;
+}
+.contact_items {
+	margin-left: 0;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+.contact_items h3{
+	font-size: 22px;
+}
+/*contact section end*/
+/*footer section start*/
+.footer_about p {
+    margin-bottom: 5px;
+}
+.contact_add p, address {
+    margin-top: 6px;
+}
+.footer_c_head h3 {
+    font-size: 22px;
+}
+.footer_post_content h6{
+	font-size: 14px;
+}
+.footer_post_content span {
+    font-size: 10px;
+}
+.footer_common{
+	margin-bottom:30px;
+}
+.copyright_footer::before {
+    margin-top: 24px;
+    margin-bottom: 13px;
+}
+.copyright_text {
+    font-size: 14px;
+    text-align: center;
+}
+.copyright_link {
+    text-align: center;
+}
+/*footer section end*/
+/*project overlay*/
+.overlay_content p {
+    margin-top: 75px;
+    font-size: 13px;
+}
+.overlay_content h5 {
+    font-size: 15px;
+    margin: 0;
+}
+.overlay_btn {
+    margin: 12px 0;
+    width: 100px;
+    height: 30px;
+    font-size: 13px;
+}
+/*project overlay*/
+
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a {
+    padding-left: 0px !important;
+}
+.slider_content {
+    margin: 92px 0;
+}
+.slider_content h1 {
+    font-size: 45px;
+}
+/*header end*/
+/*service start*/
+.service {
+    padding: 50px 0;
+}
+.service_item {
+    margin-bottom: 20px;
+}
+.service_item h2 {
+    font-size: 22px;
+}
+/*service end*/
+/*teamwork section start*/
+.teamwork {
+    padding: 40px 0;
+}
+.teamwork_content h1 {
+    margin-top: 20px;
+}
+.btn_custom {
+    margin-top: 10px;
+}
+/*teamwork section end*/
+/*achieve counter start*/
+.achieve_counter {
+    padding: 40px 0;
+}
+.counter_items {
+    margin-bottom: 10px;
+}
+.counter_items span {
+    font-size: 50px;
+}
+.counter_items h2 {
+    font-size: 27px;
+}
+/*achieve counter end*/
+/*more section start*/
+.more {
+    padding: 40px 0;
+}
+
+.more_items {
+    margin-bottom: 20px;
+}
+/*more section end*/
+/*price section start*/
+.price {
+    padding: 40px 0;
+}
+/*price section end*/
+/*idea section start*/
+.idea_items {
+    text-align: center;
+}
+.idea_content {
+    margin-top: 40px;
+    margin-left: 32px;
+
+}
+/*idea section end*/
+/*team section start*/
+.team {
+    padding: 40px 0;
+}
+.team_items {
+    margin-bottom: 20px;
+}
+.team_items h3 {
+    font-size: 16px;
+
+}
+.margin_fix {
+    margin-top: 20px !important;
+}
+/*team section end*/
+/*project secton start*/
+.project {
+    padding: 40px 0;
+}
+/*project secton end*/
+/*news section start*/
+.news {
+    padding: 40px 0;
+}
+.card {
+    margin-bottom: 20px;
+}
+/*news section end*/
+/*contact section start*/
+.form_input{
+	width:95%;
+    margin-bottom: 5px !important;
+    margin:0 auto;
+}
+.form_btn {
+    width: 95%;
+}
+.contact_items {
+	margin-left: 0;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+/*contact section end*/
+/*footer section start*/
+.footer_post_content h6{
+	font-size: 14px;
+}
+.footer_post_content span {
+    font-size: 10px;
+}
+.footer_common{
+	margin-bottom:15px;
+}
+/*footer section end*/
+/*project overlay*/
+.overlay_content p {
+    margin-top: 15px;
+    font-size: 13px;
+}
+.overlay_content h5 {
+    font-size: 15px;
+    margin: 0;
+}
+.overlay_btn {
+    margin: 12px 0;
+    width: 100px;
+    height: 30px;
+    font-size: 13px;
+}
+/*project overlay*/
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.menu ul li a {
+    padding-left: 0px !important;
+}
+.slider_content h1 {
+    font-size: 45px;
+}
+.slider_content button {
+    width: 60%;
+}
+/*header end*/
+/*service start*/
+.service_item {
+    margin-bottom: 20px;
+}
+/*service end*/
+/*teamwork section start*/
+.teamwork_content h1 {
+    margin-top: 20px;
+}
+/*teamwork section end*/
+/*price section start*/
+.price_items ul li {
+    font-size: 14px;
+}
+/*price section end*/
+/*team section start*/
+.team_items h3 {
+    font-size: 16px;
+
+}
+/*team section end*/
+/*news section start*/
+.card_custom span {
+    font-size: 10px;
+}
+.card_custom a {
+    font-size: 9px;
+}
+.card_custom h3 {
+    font-size: 20px;
+}
+/*news section end*/
+/*footer section start*/
+.footer_post_content h6{
+	font-size: 12px;
+}
+.footer_post_content span {
+    font-size: 10px;
+}
+
+/*footer section end*/
+/*project overlay*/
+.overlay_content p {
+    margin-top: 15px;
+    font-size: 13px;
+}
+.overlay_content h5 {
+    font-size: 12px;
+    margin: 0;
+}
+.overlay_btn {
+    margin: 12px 0;
+    width: 100px;
+    height: 30px;
+    font-size: 13px;
+}
+/*project overlay*/
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*service start*/
+.service_item h2 {
+    font-size: 22px;
+}
+.service_item a {
+    font-size: 14px;
+}
+/*service end*/
+/*teamwork section start*/
+.btn_custom {
+    margin-top: 8px;
+}
+/*teamwork section end*/
+
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+ }
